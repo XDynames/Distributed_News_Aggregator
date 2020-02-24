@@ -1,0 +1,5 @@
+title:Awesome Stuff
+uuid:1225c695-r4b8-4ebb-ataa-80d4344efa6a
+updated:2017-08-07T18:30:02Z
+subtitle:A curation of the best parts of the internet for the best people on the internet
+author:James Bockman
